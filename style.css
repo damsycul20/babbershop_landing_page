@@ -350,4 +350,10 @@ hr{
         top: 15%;
         right: 50%;
     }
+    .feature-box{
+        flex-direction: column;
+    }
+    .features-img img{
+        width: 100%;
+    }
 }
